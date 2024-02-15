@@ -4,7 +4,7 @@ This repository contains code for building an Optical Character Recognition (OCR
 
 ### Dataset
 
-The OCR system is trained on a dataset comprising approximately 570,000 labeled images of Persian alphabets. This dataset is publicly available on Kaggle and can be accessed [GitHub Pages](https://pages.github.com/).
+The OCR system is trained on a dataset comprising approximately 570,000 labeled images of Persian alphabets. This dataset is publicly available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/mostafamohammadi1/persian-alphabets-and-numbers).
 
 ### Accuracy
 
